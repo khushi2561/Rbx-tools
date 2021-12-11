@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Dec 2021 12:26:05 at http://rbx-tools.net/tool/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rbx-tools.net/tool/index.html -O1 "C:\My Web Sites\testing1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:26:35	Error: 	"Not Found" (404) at link https://rbx-tools.net/tool/assets/css/screen-content-iphone-6.jpg (from https://rbx-tools.net/tool/assets/css/styles.min.css?h=f34c5a2c14459e3a5a4e2804c21a9c59)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 32 links scanned, 30 files written (2117633 bytes overall) [1656344 bytes received at 55211 bytes/sec], 646844 bytes transferred using HTTP compression in 24 files, ratio 22%, 3.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
